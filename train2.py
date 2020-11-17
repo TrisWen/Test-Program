@@ -16,11 +16,11 @@ def function2(x,n):
     return x
 
 def main():
-    x = function1(3,10)
-    y = function2(3,10)
-    print(x)
-    print(y)
-    mean = (x+y)/2
+    z = function1(3,10)
+    a = function2(3,10)
+    print(z)
+    print(a)
+    mean = (z+a)/2
     print("Mean is:", mean)       
     
 if __name__ == "__main__":  
