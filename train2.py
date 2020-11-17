@@ -5,11 +5,11 @@ Created on Tue Nov 17 21:27:02 2020
 @author: Tristan
 """
 
-x = 3
+a = 3
 n = 10
 
 for i in range(n):
-    x += 1
+    a += 1
     
-print(x)
+print(a)
 
